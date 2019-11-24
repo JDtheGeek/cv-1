@@ -8,6 +8,19 @@ I also had a year long design and make project that entailed creating a rowing c
 I really enjoyed working on these programming projects that revolved around both subjects I like: technology and problem solving.
 More recently, I have been working through online courses such as Treehouse to get my feet wet in the subject. I’ve picked up some knowledge in HTML, CSS, and Ruby. Getting back into programming languages has made me realise why I want to make a career change into the field - I enjoy the workflow of writing code, from breaking down a problem into smaller processes to solve, and the real world output that can be tested by yourself. I like the sense of the satisfaction a developer can get when solving challenging coding problems especially when coming up with a working solution to a problem that does not come easy
 
+I am Mechanical Design Engineer with experience working in a building services engineering consultancy for 2 years. I have knowledge of other engineering areas from my degree particularly solid mechanics and finite element analysis. I am professional, diligent and calm under pressure. I am a quick learner who is always looking to learn new things to further develop my understanding. My previous work has given me great experience in how to work effectively in a team as well as developing interpersonal and customer service skills. I am seeking a role in a well-structured and dynamic organisation with a strong team ethic.
+Key skills
+
+
+Quick Learner
+Problem Solving
+Logical thinker who can also think outside the box. 
+Good communication skills, both written and verbal.
+Self-motivated and able to work independently
+Experience in a range of mechanical design.
+Site experience such as witnessing.
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
@@ -20,7 +33,11 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence
 
-#### Problem Solving
+#### Quick Learner
+
+
+
+#### Problem Solving and Logical Thinking
 
 Throughout my engineering education and work life, I have developed my problem solving skills. Problems could arise from multiple situations: whether it was a problem with an existing design by somebody else, a problem caused by constraints of an existing building or an architect having strict views of what works for them. Problem solving was my favourite part of my work at ChapmanBDSP. Working with architects meant that the most obvious solution wasn't always an acceptable one and therefore I had to think outside the box to come up with was around the problems. 
 I came late into a £1bn project for a major company building their new london HQ, there was a new architect who did not like the current design of the cooling and ventilation system for the yoga and pilates studios. I came up and designed a fresh idea to use a displacement ventilation system and integrate it behind the mirrors, which the arhitect loved and I also recieved praise from my line manager. 
@@ -79,9 +96,9 @@ Graduate Mechanical Engineer (Dec 2014 to Dec 2016)
 
 Any cool stuff that makes you a super part of a software development team
 
-- Sports: Outside of work I am interested in a wide range of sports. I am especially keen on tennis, football, skiing and badminton. I played 5-a-side footballs every Sunday at university finishing 2nd in our respective league. I am a keen cyclist, owning a mountain biking and a fixed gear bike, both of which I built myself. 
-- Travel: In the summer of 2012 I travelled around Europe for a month with a close friend, travelling from Amsterdam to Dubrovnik, Croatia.
-- Other: I also enjoy socialising with friends and researching and discovering new technologies. I am a keen amateur mechanic, regularly carrying out maintenance of my car.
+- Sports: I like to run and managed to achieved my goal of running the London Marathon this year. I love cycling and cycle everywhere on three bikes, two of which I built myself. I also play on squash, football and ski.
+- Travel: I love discovering new places and experiencing different cultures. My favourite trip was to China visiting a schoolfriend who was teaching there.
+- Other: I enjoy socialising with friends, playing boardgames, listening to music and researching and discovering new tech.
 
 Further Details: Full clean EU/UK Driving licence.
 Referees Available upon request. 
