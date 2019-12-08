@@ -1,5 +1,13 @@
 ## Your Name
 
+At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. This led me down the path of all things engineering.
+
+I am a Full Stack Junior Developer 
+
+After graduating from the University of Nottingham with a masters degree in Mechanical Engineering, I got the opportunity to join the graduate scheme for an engineering consultancy in the construction industry. They were going through an exciting growth period having recently won big projects like Battersea Power Station redevelopement and the new Design Musuem. The role meant working as part of a design team to deliver the best possible product to the client, something that has parallels with working as part of an agile team in the tech industry.
+
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+
 My first taste of coding was at school when I studied "Computing" at A-level. The subject was a mix of programming and theory behind computers. As part of the subject we had to develop an application using Visual basic. I made a programme aimed at gym users who could login and enter information about their workout and then access this again next to track their progress. I really enjoyed the subject and it was my favourite A-level.
 My interest in coding piqued during my degree at university when, as a part of my degree requirements, I had a "Computer Program" module. I was tasked to use MATLAB to solve engineering problems. This involved using programming fundamentals and applying them to solve engineering application.
 
@@ -96,7 +104,7 @@ Graduate Mechanical Engineer (Dec 2014 to Dec 2016)
 
 Any cool stuff that makes you a super part of a software development team
 
-- Sports: I like to run and managed to achieved my goal of running the London Marathon this year. I love cycling and cycle everywhere on three bikes, two of which I built myself. I also play on squash, football and ski.
+- Sports: I like to run and managed to achieve my goal of running the London Marathon in 2019. I love cycling and cycle everywhere on three bikes, two of which I built myself. I also play on squash, football and ski.
 - Travel: I love discovering new places and experiencing different cultures. My favourite trip was to China visiting a schoolfriend who was teaching there.
 - Other: I enjoy socialising with friends, playing boardgames, listening to music and researching and discovering new tech.
 
