@@ -1,31 +1,31 @@
 <h1 align="center">Dominic Tunstill</h1>
-
-<ol align="center" list-style-position="inside">	
-<li align="center">
-		 
-[Overview](#overview)
+<li align="center"> 
+Jump to section
 </li>
 <li align="center">
 		 
-[Projects](#projects)
+[1. Overview](#overview)
+</li>
+<li align="center">
+		 
+[2. Projects](#projects)
 </li>
 <li align="center">
 	
-[Skills](#skills)
+[3. Skills](#skills)
 </li>
 <li align="center">
 	
-[Education](#education)
+[4. Education](#education)
 </li>
 <li align="center">
 	
-[Experience](#experience)
+[5. Experience](#experience)
 </li>
 <li align="center">
 	
-[Hobbies](#hobbies)
+[6. Hobbies](#hobbies)
 </li>
-</ol>
 
 <p align="center">
 <a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
