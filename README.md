@@ -1,12 +1,13 @@
 <h1 align="center">Dominic Tunstill</h1>
 
-<p align="center"> 
+<ol>
+<li align="center"> 
 Jump to section
-</p>
+</li>
 <p align="center">
 		 
 [1. Overview](#overview)
-</p>
+</li>
 <li align="center">
 		 
 [2. Projects](#projects)
@@ -27,6 +28,7 @@ Jump to section
 	
 [6. Hobbies](#hobbies)
 </li>
+</ol>
 
 <p align="center">
 <a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
