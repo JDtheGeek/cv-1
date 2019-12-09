@@ -65,13 +65,7 @@ Intermediate Mechanical Engineer (Dec 2016 to Sep 2019)
 Graduate Mechanical Engineer (Dec 2014 to Dec 2016)
 - Lead the design of an office refurbishment with a project budget of £1 million. This involved attending design meetings to understand the client brief and co-ordinate our design with other disciplines.
 
-[comment]: <> (**Company Name** (start_date to end_date)) 
-[comment]: <> (*Your job title* ) 
-[comment]: <> (- Any experience relevent to software development)
-
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
 
 - Sports: I like to run and managed to achieve my goal of running the London Marathon in 2019. I love cycling and cycle everywhere on three bikes, two of which I built myself. I also play on squash, football and ski.
 - Travel: I love discovering new places and experiencing different cultures. My favourite trip was to China visiting a schoolfriend who was teaching there.
