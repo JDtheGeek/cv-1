@@ -1,10 +1,27 @@
 <h1 align="center">Dominic Tunstill</h1>
 
+<ol align="center">
+<li align="center">
+		 
 [Projects](#projects)
+</li>
+<li align="center">
+	
 [Skills](#skills)
+</li>
+<li align="center">
+	
 [Education](#education)
+</li>
+<li align="center">
+	
 [Experience](#experience)
+</li>
+<li align="center">
+	
 [Hobbies](#hobbies)
+</li>
+</ol>
 
 <p align="center">
 <a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
