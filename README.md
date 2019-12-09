@@ -8,6 +8,13 @@ My interest in coding piqued during my degree at university when, as a part of m
 
 From then on, I have always looked in on the tech industry with interest and intrigue and for a while I have considered attempting to start a career as a developer. I had some prior experience in code and loved everything about it. I enjoy the workflow of writing code, from breaking down a problem into smaller processes to solve and the real world output that can be tested by yourself. I like the sense of the satisfaction a developer can get when solving challenging coding problems especially when coming up with a working solution to a problem that does not come easy.
 
+## Projects
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [SportsMatch - Front End](https://github.com/domtunstill/sportsmatch_react) [SportsMatch - Back End](https://github.com/domtunstill/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | React, Javascript, Flask, Python, Pytest/Cypress, Heroku, Travis CI, Circle CI|
+| [Acebook](https://github.com/domtunstill/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |Rails, RSpec/Capybara, Postgres, Heroku, Travis CI|
+|[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |Ruby, Sinatra, RSpec, Javascript, Jasmine, Heroku, Travis CI |
+
 ## Skills
 
 #### Collaborative Worker
