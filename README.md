@@ -1,4 +1,4 @@
-## Dominic Tunstill
+<h1 align="center">Dominic Tunstill</h1>
 <p align="center">
 	<a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
 	<img src="https://www.vitae.ac.uk/images/logos/linkedin.png/@@images/c84f67eb-8427-48f3-9bc0-69712df8126b.png" alt="linkedin-logo" hspace="50" height="42" width="42"></a>
@@ -6,13 +6,18 @@
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoomskqBHw1diTlhQBHA7krBgtr9Vjlu7UJaBfRD584XzJHYy_Ag&s" alt="github-logo" hspace="50" height="42" width="42"></a>
 </p>
 
+<p align="center">
 At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. Including upgrading the USBs to USB 2.0, adding a WiFi PCI card, upgrading the RAM and rehousing it in a case. This led me down the path of all things engineering.
-
+</p>
+<p align="center">
 After graduating from the University of Nottingham with a masters degree in Mechanical Engineering, I got the opportunity to join the graduate scheme for an engineering consultancy in the construction industry. They were going through an exciting growth period having recently won big projects like Battersea Power Station redevelopement and the new Design Musuem. The role meant working as part of a design team to deliver the best possible product to the client, something that has parallels with working as part of an agile team in the tech industry.
-
+</p>
+<p align="center">
 My interest in coding piqued during my degree at university when, as a part of my degree requirements, I had a "Computer Programming" module. I was tasked to use MATLAB to solve engineering problems. This involved using programming fundamentals and applying them to an engineering application. Another project in this module entailed creating a rowing computer to display, record and save data such as speed, distance, and rudder. I really enjoyed working on these programming projects that revolved around both subjects I like: technology and problem solving.
-
+</p>
+<p align="center">
 From then on, I have always looked in on the tech industry with interest and intrigue and for a while I have considered attempting to start a career as a developer. I had some prior experience in code and loved everything about it. I enjoy the workflow of writing code, from breaking down a problem into smaller processes to solve and the real world output that can be tested by yourself. I like the sense of the satisfaction a developer can get when solving challenging coding problems especially when coming up with a working solution to a problem that does not come easy.
+</p>
 
 ## Projects
 | Project   | Description | Technologies |
