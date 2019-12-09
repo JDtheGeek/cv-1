@@ -1,32 +1,32 @@
 <h1 align="center">Dominic Tunstill</h1>
 
 <ol>
-<li align="center"> 
+<p> 
 Jump to section
-</li>
-<p align="center">
+</p>
+<li>
 		 
-[1. Overview](#overview)
+[Overview](#overview)
 </li>
-<li align="center">
+<li>
 		 
-[2. Projects](#projects)
+[Projects](#projects)
 </li>
-<li align="center">
+<li>
 	
-[3. Skills](#skills)
+[Skills](#skills)
 </li>
-<li align="center">
+<li>
 	
-[4. Education](#education)
+[Education](#education)
 </li>
-<li align="center">
+<li>
 	
-[5. Experience](#experience)
+[Experience](#experience)
 </li>
-<li align="center">
+<li>
 	
-[6. Hobbies](#hobbies)
+[Hobbies](#hobbies)
 </li>
 </ol>
 
