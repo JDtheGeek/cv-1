@@ -17,9 +17,11 @@ I really enjoyed working on these programming projects that revolved around both
 More recently, I have been working through online courses such as Treehouse to get my feet wet in the subject. I’ve picked up some knowledge in HTML, CSS, and Ruby. Getting back into programming languages has made me realise why I want to make a career change into the field - I enjoy the workflow of writing code, from breaking down a problem into smaller processes to solve, and the real world output that can be tested by yourself. I like the sense of the satisfaction a developer can get when solving challenging coding problems especially when coming up with a working solution to a problem that does not come easy
 
 I am Mechanical Design Engineer with experience working in a building services engineering consultancy for 2 years. I have knowledge of other engineering areas from my degree particularly solid mechanics and finite element analysis. I am professional, diligent and calm under pressure. I am a quick learner who is always looking to learn new things to further develop my understanding. My previous work has given me great experience in how to work effectively in a team as well as developing interpersonal and customer service skills. I am seeking a role in a well-structured and dynamic organisation with a strong team ethic.
+
+
+I have always looked in on the tech industry with interest and intrigue. For a while I have considered attempting to start a career as a developer. I had some prior experience in code and loved everything about it. I enjoy the workflow of writing code, from breaking down a problem into smaller processes to solve and the real world output that can be tested by yourself. I like the sense of the satisfaction a developer can get when solving challenging coding problems especially when coming up with a working solution to a problem that does not come easy. I am relishing the prospect that I can do this for a career and am eager to get started and contributing to a company.
+
 Key skills
-
-
 Quick Learner
 Problem Solving
 Logical thinker who can also think outside the box. 
@@ -41,6 +43,10 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence
 
+### En
+
+The teams would consist of our internal team of engineers of various disciplines and external parties like the client, architects and structural engineeers. This meant throughout the process cross team communciation was key to ensure everyone's work was aligned and as per the client's brief. I attended regualr co-ordination meetings both internally and externally, liasing with the other members of the design team like the client and architects. I took on the respobility of running a project in my second year, the first graduate at the company
+
 #### Quick Learner
 
 
@@ -53,6 +59,8 @@ I came late into a £1bn project for a major company building their new london H
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+My previous work has given me great experience in how to work effectively in a team as well as developing interpersonal and customer service skills. I am seeking a role in a well-structured and dynamic organisation with a strong team ethic.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -68,6 +76,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Pair Programming
 - Ruby, Rails, Sinatra
 - JavaScript, jQuery, React
+- Python, Flask
+- HTML, CSS
 - RSpec, Jasmine, Capybara, Cypress
 
 #### The University of Nottingham (September 2010 to July 2014)
@@ -76,7 +86,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2:1 (68%)
 - Received a ‘High Flyer’ Award’ for achieving a high year average for the 2nd year of my degree.
 - Obtained 1st class marks on both the group design and make project during 3rd year and individual design and experimental project during 4th year.
-- Broad degree with several programming based modules. 
+- Broad degree with several programming based modules (mainly Java/C++). 
 
 #### Tunbridge Wells Grammar School for Boys
 
