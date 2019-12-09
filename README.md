@@ -1,5 +1,8 @@
-[Projects ](#projects) |
 <h1 align="center">Dominic Tunstill</h1>
+[Projects ](#projects)
+[Skills ](#skills)
+[Education ](#education)
+
 <p align="center">
 	<a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
 	<img src="https://www.vitae.ac.uk/images/logos/linkedin.png/@@images/c84f67eb-8427-48f3-9bc0-69712df8126b.png" alt="linkedin-logo" hspace="50" height="42" width="42"></a>
