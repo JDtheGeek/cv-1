@@ -65,9 +65,9 @@ Intermediate Mechanical Engineer (Dec 2016 to Sep 2019)
 Graduate Mechanical Engineer (Dec 2014 to Dec 2016)
 - Lead the design of an office refurbishment with a project budget of £1 million. This involved attending design meetings to understand the client brief and co-ordinate our design with other disciplines.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+[comment]: <> (**Company Name** (start_date to end_date)) 
+[comment]: <> (*Your job title* ) 
+[comment]: <> (- Any experience relevent to software development)
 
 ## Hobbies
 
