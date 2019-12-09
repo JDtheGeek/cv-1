@@ -1,6 +1,10 @@
 <h1 align="center">Dominic Tunstill</h1>
 
-<ol align="center">
+<ol align="center" list-style-position="inside">	
+<li align="center">
+		 
+[Overview](#overview)
+</li>
 <li align="center">
 		 
 [Projects](#projects)
@@ -30,6 +34,7 @@
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoomskqBHw1diTlhQBHA7krBgtr9Vjlu7UJaBfRD584XzJHYy_Ag&s" alt="github-logo" hspace="50" height="42" width="42"></a>
 </p>
 
+## Overview
 <p>
 At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. Including upgrading the USBs to USB 2.0, adding a WiFi PCI card, upgrading the RAM and rehousing it in a case. This led me down the path of all things engineering.
 </p>
