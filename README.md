@@ -1,7 +1,7 @@
 ## Dominic Tunstill
 
 <a href="https://www.linkedin.com/in/kevin-hanna-56033785/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://www.vitae.ac.uk/images/logos/linkedin.png/@@images/c84f67eb-8427-48f3-9bc0-69712df8126b.png" alt="linkedin-logo" hspace="50" height="42" width="42"></a>
 
 At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. Including upgrading the USBs to USB 2.0, adding a WiFi PCI card, upgrading the RAM and rehousing it in a case. This led me down the path of all things engineering.
 
