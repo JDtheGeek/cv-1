@@ -1,5 +1,8 @@
 ## Dominic Tunstill
 
+<a href="https://www.linkedin.com/in/kevin-hanna-56033785/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
 At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. Including upgrading the USBs to USB 2.0, adding a WiFi PCI card, upgrading the RAM and rehousing it in a case. This led me down the path of all things engineering.
 
 After graduating from the University of Nottingham with a masters degree in Mechanical Engineering, I got the opportunity to join the graduate scheme for an engineering consultancy in the construction industry. They were going through an exciting growth period having recently won big projects like Battersea Power Station redevelopement and the new Design Musuem. The role meant working as part of a design team to deliver the best possible product to the client, something that has parallels with working as part of an agile team in the tech industry.
