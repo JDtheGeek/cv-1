@@ -1,11 +1,12 @@
 <h1 align="center">Dominic Tunstill</h1>
-<li align="center"> 
+
+<p align="center"> 
 Jump to section
-</li>
-<li align="center">
+</p>
+<p align="center">
 		 
 [1. Overview](#overview)
-</li>
+</p>
 <li align="center">
 		 
 [2. Projects](#projects)
