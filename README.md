@@ -1,7 +1,10 @@
 ## Dominic Tunstill
-
-<a href="https://www.linkedin.com/in/kevin-hanna-56033785/">
-<img src="https://www.vitae.ac.uk/images/logos/linkedin.png/@@images/c84f67eb-8427-48f3-9bc0-69712df8126b.png" alt="linkedin-logo" hspace="50" height="42" width="42"></a>
+<p align="center">
+	<a  href="https://www.linkedin.com/in/dominic-tunstill-20293629/">
+	<img src="https://www.vitae.ac.uk/images/logos/linkedin.png/@@images/c84f67eb-8427-48f3-9bc0-69712df8126b.png" alt="linkedin-logo" hspace="50" height="42" width="42"></a>
+	<a  href="https://github.com/domtunstill">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoomskqBHw1diTlhQBHA7krBgtr9Vjlu7UJaBfRD584XzJHYy_Ag&s" alt="github-logo" hspace="50" height="42" width="42"></a>
+</p>
 
 At 14 I bought my first PC, an old unloved machine and it was then that I discovered the world of tech. I spent countless hours modiyfing and tweaking it, making any little change I could to improve it. Including upgrading the USBs to USB 2.0, adding a WiFi PCI card, upgrading the RAM and rehousing it in a case. This led me down the path of all things engineering.
 
